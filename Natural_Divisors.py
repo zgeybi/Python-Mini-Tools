@@ -9,4 +9,4 @@ while True:
 
     i += 1
 
-print(len(natural_divisors))
+print(natural_divisors)
