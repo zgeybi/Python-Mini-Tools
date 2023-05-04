@@ -1,4 +1,4 @@
-num = 1224
+num = int(input("Enter the number: "))
 natural_divisors = []
 i = 1
 while True:
