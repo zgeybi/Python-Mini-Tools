@@ -8,8 +8,8 @@
 
 # Possible usage:
 I created this program because I needed to test a sorting algorithm that I'm working on, so this program saved me the effort of going to
-some website on the internet
+some website on the internet.
 
-a. testing sorting algorithms with different numbers and different sizes of input
-b. for some games maybe
+a. testing sorting algorithms with different numbers and different sizes of input'\n'
+b. for some games maybe'\n'
 c. i'm sure you might need it for something else
