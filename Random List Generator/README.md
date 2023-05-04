@@ -1,5 +1,5 @@
 # Instructions:
-1. First prompt is an integer to specify how many number numbers to generate
+1. First prompt is an integer to specify how many numbers to generate
 2. Second prompt is an integer to specify the lower bound of the numbers you need
 3. Third and last is an integer to specify the upper bound of the numbers you need
 4. Then a file with the name `numbers.txt` will be generated and the list of numbers will be printed inside the file
