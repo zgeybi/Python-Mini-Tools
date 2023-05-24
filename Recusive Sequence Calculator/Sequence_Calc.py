@@ -11,9 +11,10 @@ for i in range(2, numberOfTerms):
     myList.append(((myList[i - 1] * 123) + (myList[i - 2] * 45)) % 10**9 + 4321)
 
 with open("sequence.txt", 'w') as f:
+    f.write("Terms: \n")
     for line in myList:
-        f.write(line)
+        f.write(str(line))
         f.write('\n')
-
+    f.write(f"Element at term {orderOfElement} is: \n")
     myList.sort()
-    f.write(str(myList[orderOfElement]))
+    f.write(str(myList[orderOfElement - 1]))
