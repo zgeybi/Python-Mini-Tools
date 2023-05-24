@@ -1,6 +1,6 @@
 # Description
 The program, as the name suggests, can calculate terms of recursive 
-sequences that use the previous two terms to calculate the next term  
+sequences that use the previous two terms to calculate the next term and writes the result into a file
 # Examples of such sequences
 1. Fibonacci sequence
 2. Lucas Numbers
