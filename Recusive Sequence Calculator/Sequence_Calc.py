@@ -8,7 +8,7 @@ myList.append(secondElement)
 
 for i in range(2, numberOfTerms):
     # Change the formula inside "append" to the formula you need
-    myList.append(((myList[i - 1] * 123) + (myList[i - 2] * 45)) % 10**9 + 4321)
+    myList.append(((myList[i - 1] * 123) + (myList[i - 2] * 45)) % (10**7 + 4321))
 
 with open("sequence.txt", 'w') as f:
     f.write("Terms: \n")
